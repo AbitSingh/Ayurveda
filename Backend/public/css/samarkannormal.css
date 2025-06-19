@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "SamarkanNormal";
+    src: url("../fonts/samarkannormal.eot");
+    src: url("../fonts/samarkannormald41d.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/samarkannormalV2.woff")format("woff"),
+        url("../fonts/samarkannormalV2.woff2")format("woff2"),
+        url("../fonts/samarkannormal.ttf")format("truetype"),
+        url("../fonts/samarkannormal.html#NexaLight")format("svg");
+    font-weight:400;
+    font-style:normal;
+    font-display:swap;
+}
+
+

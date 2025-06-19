@@ -1,0 +1,11 @@
+.bannerImg {
+    height: 600px;
+}
+
+.offcanvas-backdrop {
+    z-index: 9999;
+  }
+  
+  .offcanvas {
+    z-index: 10000;
+  }

@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .custom-table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  .custom-table th {
+    background-color: #f2f2f2;
+  }
+  

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon9501.ttf?6f916db93ef51fe7447eb8472dff021b") format("truetype"),
+url("../fonts/flaticon9501.woff?6f916db93ef51fe7447eb8472dff021b") format("woff"),
+url("../fonts/flaticon9501.woff2?6f916db93ef51fe7447eb8472dff021b") format("woff2"),
+url("../fonts/flaticon9501.eot?6f916db93ef51fe7447eb8472dff021b#iefix") format("embedded-opentype"),
+url("../fonts/flaticon9501.svg?6f916db93ef51fe7447eb8472dff021b#flaticon_ayurveda") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-organic-product:before {
+    content: "\f101";
+}
+.flaticon-quality:before {
+    content: "\f102";
+}
+.flaticon-address:before {
+    content: "\f103";
+}
+.flaticon-worldwide:before {
+    content: "\f104";
+}
+.flaticon-call:before {
+    content: "\f105";
+}
+.flaticon-email:before {
+    content: "\f106";
+}
+.flaticon-up-right-arrow:before {
+    content: "\f107";
+}
+.flaticon-verification:before {
+    content: "\f108";
+}
+.flaticon-alert:before {
+    content: "\f109";
+}
+.flaticon-hourglass:before {
+    content: "\f10a";
+}

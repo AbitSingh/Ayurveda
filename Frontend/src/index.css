@@ -1,0 +1,11 @@
+.heading {
+    color: red;
+}
+
+.banner-img {
+    height: 600px;
+}
+
+#slider1 {
+    background-image: url('/images/main-slider/image-1.jpg');
+}

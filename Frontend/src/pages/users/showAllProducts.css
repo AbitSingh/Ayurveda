@@ -1,0 +1,12 @@
+.sidebar-link {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .sidebar-link:hover {
+    color: #dc3545;
+    font-weight: 600;
+  }
+
+  
+  
